@@ -1,28 +1,3 @@
 {
-    "mediaRootFolderUrl":  "https://drive.google.com/drive/folders/1-IWUBzOlyNYpfLpTsq9zho1qAMGR0RbH",
-    "products":  [
-                     {
-                         "id":  "ludo_elite_pro_app",
-                         "name":  "Ludo Elite Pro",
-                         "shortDescription":  "Premium Ludo Game Source Code",
-                         "description":  "Ludo Elite is a complete, high-quality Ludo game source code ready for publishing. Features include multiplayer mode, smooth UI, and optimized performance.",
-                         "category":  "Game",
-                         "priceMicros":  999000000,
-                         "currencyCode":  "INR",
-                         "version":  "1.0.0",
-                         "published":  true,
-                         "downloadEnabled":  true,
-                         "screenshotUrls":  [
-                                                "https://drive.google.com/uc?export=view\u0026id=1RfWZj5193bReHpcW6gh0hCrDtgYgYLTQ",
-                                                "https://drive.google.com/uc?export=view\u0026id=1b2Z4jgleVaG49nsJGqJaJaY3pIZiNX2p",
-                                                "https://drive.google.com/uc?export=view\u0026id=1LrEDbIKm71uavi6bhn5ltMRqN8s6ViiG",
-                                                "https://drive.google.com/uc?export=view\u0026id=1D6NZHniAfnSy-swqorD_OGt7mqxTXAwn"
-                                            ],
-                         "demoApkUrl":  "https://drive.google.com/uc?export=download\u0026id=1D7zbgflpVOpZItG36tXWhUMzHg-r1ERr",
-                         "featured":  true,
-                         "trending":  true,
-                         "topSelling":  false
-                     }
-                 ],
-    "archivingNote":  "Keep previously sold products here with published:false."
+  "products": []
 }
